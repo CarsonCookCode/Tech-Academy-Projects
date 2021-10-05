@@ -1,0 +1,45 @@
+#intro{
+	background-color: #ccf5ff;
+	text-align: center;
+}
+#form {
+	color: #b30000;
+	text-align: center;
+	background-color: #404040;
+}
+#report {
+	color: gray;
+	text-align: center;
+	height: 200px;
+	width: 300px;
+}
+.rsvp {
+	color: gray;
+}
+body {
+	background-color: gray;
+}
+#heading {
+	font-size: 30px;
+	border: 4px solid black;
+	color: #b30000;
+	background-color: gray;
+	text-shadow: 5px 5px 8px black;
+}
+#footer {
+	text-align: center;
+}
+#header {
+	text-align: center;
+	color: #b30000;
+}
+#video {
+	
+display: block;
+margin: 0 auto;
+}
+img {
+	display: block;
+	margin: 10px auto;
+	border: 2px solid black;
+}
