@@ -1,3 +1,7 @@
+body {
+	font-family: 'Times New Romam';
+	font-size: medium;
+}
 #intro{
 	background-color: #ccf5ff;
 	text-align: center;
@@ -6,6 +10,7 @@
 	color: #b30000;
 	text-align: center;
 	background-color: #404040;
+	
 }
 #report {
 	color: gray;
@@ -15,6 +20,10 @@
 }
 .rsvp {
 	color: gray;
+	width: 200px;
+	margin-bottom: 10px;
+	border: 1px solid black;
+	border-radius: 4px;
 }
 body {
 	background-color: gray;
